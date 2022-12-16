@@ -32,7 +32,7 @@
             "size": "450887680"
         },
         {
-            "name": "海之号角",
+            "name": "海之号角2",
             "version": "1.0.0",
             "versionDate": "2022-11-19",
             "versionDescription": "此版本兼容troll",
@@ -42,6 +42,42 @@
             "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
             "tintColor": "",
             "size": "2576980377.6"
+        },
+        {
+            "name": "暖雪",
+            "version": "1.0.0",
+            "versionDate": "2022-11-19",
+            "versionDescription": "此版本兼容troll",
+            "lock": "0",
+            "downloadURL": "https://pan.lhoj.ml/api/raw/?path=/ipa%E6%B8%B8%E6%88%8F/%E6%9D%82%E9%A1%B9/%E6%9A%96%E9%9B%AA.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
+            "tintColor": "",
+            "size": "872415232"
+        },
+        {
+            "name": "部落冲突私服",
+            "version": "1.0.0",
+            "versionDate": "2022-11-19",
+            "versionDescription": "此版本兼容troll",
+            "lock": "0",
+            "downloadURL": "https://pan.lhoj.ml/api/raw/?path=/ipa%E6%B8%B8%E6%88%8F/%E7%A0%B4%E8%A7%A3%E6%B8%B8%E6%88%8F/%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81_15.0.2_Zero%E5%88%86%E4%BA%AB.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
+            "tintColor": "",
+            "size": "291504128"
+        },
+        {
+            "name": "滚动的天空",
+            "version": "1.0.0",
+            "versionDate": "2022-11-19",
+            "versionDescription": "此版本兼容troll",
+            "lock": "0",
+            "downloadURL": "https://pan.lhoj.ml/api/raw/?path=/ipa%E6%B8%B8%E6%88%8F/%E7%A0%B4%E8%A7%A3%E6%B8%B8%E6%88%8F/%E6%BB%9A%E5%8A%A8%E7%9A%84%E5%A4%A9%E7%A9%BA%E7%A0%B4%E8%A7%A3%E7%89%88.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
+            "tintColor": "",
+            "size": "70778880"
         }
     ]
 }
