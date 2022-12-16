@@ -18,6 +18,30 @@
             "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
             "tintColor": "",
             "size": "29674700.8"
+        },
+        {
+            "name": "retroarch",
+            "version": "1.0.0",
+            "versionDate": "2022-11-19",
+            "versionDescription": "此版本兼容troll",
+            "lock": "0",
+            "downloadURL": "https://pan.lhoj.ml/api/raw/?path=/ipa%E6%B8%B8%E6%88%8F/%E6%A8%A1%E6%8B%9F%E5%99%A8/RetroArch.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
+            "tintColor": "",
+            "size": "450887680"
+        },
+        {
+            "name": "海之号角",
+            "version": "1.0.0",
+            "versionDate": "2022-11-19",
+            "versionDescription": "此版本兼容troll",
+            "lock": "0",
+            "downloadURL": "https://pan.lhoj.ml/api/raw/?path=/ipa%E6%B8%B8%E6%88%8F/arcade%E6%B8%B8%E6%88%8F/oceanhorn2.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://pan.lhoj.ml/api/thumbnail/?path=/%E8%BD%AF%E4%BB%B6%E6%BA%90/icon.jpg",
+            "tintColor": "",
+            "size": "2576980377.6"
         }
     ]
 }
